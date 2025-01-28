@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Yash...
+This is my git repository
+Author - Yash G
 
 <!--
 **codebyyashg/codebyyashg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
